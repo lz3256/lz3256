@@ -4,8 +4,6 @@
 
 I build research projects in financial machine learning: numerical reasoning over financial reports, trade-event modeling, and implied-volatility forecasting. My repositories include implementation details, controlled experiments, recorded results, and limitations.
 
-我的项目围绕金融数值推理、逐笔成交建模和隐含波动率研究展开，重点是把数据处理、实验对照和结果解释做清楚。
-
 ## Selected projects
 
 | Project | Research question | Work completed |
