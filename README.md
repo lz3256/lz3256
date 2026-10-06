@@ -6,6 +6,12 @@ My interests lie at the intersection of quantitative finance and large language 
 
 My projects connect model development, data engineering, and empirical evaluation. I am especially interested in combining language models with quantitative methods, and testing when these combinations add value across financial problems.
 
+## Applied research experience
+
+**PineBridge — AI-Assisted Investment Research**
+
+I contributed to an investment research workflow combining quantitative scoring with LLM-based analysis of company filings. The project explored how numerical financial metrics and qualitative information from disclosures could work together to support equity research.
+
 ## Selected projects
 
 | Project | Research question | Work completed |
@@ -13,6 +19,13 @@ My projects connect model development, data engineering, and empirical evaluatio
 | [FinDelta](https://github.com/lz3256/fin-delta) | How do training duration, arithmetic execution, and label quality affect financial numerical reasoning? | FinQA data pipeline, LoRA SFT and DPO, an evidence-bound arithmetic executor, and matched label-repair experiments across three seeds. |
 | [TAQ Event Lab](https://github.com/lz3256/taq-event-lab) | How does trade-event tokenization behave under different exposure and compute budgets? | Small Transformer baselines, TAQ cleaning audits, comparisons across repeated seeds, downstream direction tasks, and frozen-representation probes. |
 | [IV Surface Lab](https://github.com/lz3256/iv-surface-lab) | Do implied-volatility features add information to return and variance forecasts? | SPX option-surface construction, SPY data audits, HAR benchmarks, rolling forecasts, and documented empirical comparisons. |
+
+## Additional research
+
+- [Alpha Decay Lab](https://lz3256.github.io/research/alpha-decay-lab.html): synthetic mechanism experiments on signal reconstruction, decay assumptions, and trading costs.
+- [Policy Path and Equity Returns](https://lz3256.github.io/research/policy-path-equity.html): a research prototype for policy signals, equity sensitivity, and portfolio accounting; real-market validation remains a next step.
+- [Macro Surprise Decay and FX Feedback](https://lz3256.github.io/research/macro-fx-feedback.html): a method overview covering macro information, comparable holding windows, feedback relationships, and time-aligned evaluation.
+- [Sovereign Risk Pricing](https://lz3256.github.io/research/sovereign-risk-pricing.html): a method overview of pricing-risk divergence and cross-country prediction benchmarks.
 
 ## Earlier work
 
@@ -29,4 +42,4 @@ FinDelta uses a custom FinQA cohort. TAQ Event Lab uses trade records for AAPL, 
 
 ## Credits
 
-FinDelta, TAQ Event Lab, and IV Surface Lab were developed with substantial assistance from OpenAI Codex for implementation, analysis, debugging, and documentation. Dataset attribution, method inspirations, and experiment limitations are recorded in each repository.
+FinDelta, TAQ Event Lab, and IV Surface Lab were developed with substantial assistance from OpenAI Codex for implementation, analysis, debugging, and documentation. The four additional research overviews also describe work developed with substantial Codex assistance. Dataset attribution, method inspirations, and experiment limitations accompany the project descriptions.
