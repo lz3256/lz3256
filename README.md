@@ -2,7 +2,9 @@
 
 [Research portfolio](https://lz3256.github.io/) · [GitHub](https://github.com/lz3256)
 
-I build research projects in financial machine learning: numerical reasoning over financial reports, trade-event modeling, and implied-volatility forecasting. My repositories include implementation details, controlled experiments, recorded results, and limitations.
+My interests lie at the intersection of quantitative finance and large language models. I explore how LLMs can work with financial data and statistical methods to support numerical reasoning, forecasting, and quantitative research.
+
+My projects connect model development, data engineering, and empirical evaluation. I am especially interested in combining language models with quantitative methods, and testing when these combinations add value across financial problems.
 
 ## Selected projects
 
