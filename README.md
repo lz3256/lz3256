@@ -22,10 +22,10 @@ I contributed to an investment research workflow combining quantitative scoring 
 
 ## Additional research
 
-- [Alpha Decay Lab](https://lz3256.github.io/research/alpha-decay-lab.html): synthetic mechanism experiments on signal reconstruction, decay assumptions, and trading costs.
-- [Policy Path and Equity Returns](https://lz3256.github.io/research/policy-path-equity.html): a research prototype for policy signals, equity sensitivity, and portfolio accounting; real-market validation remains a next step.
-- [Macro Surprise Decay and FX Feedback](https://lz3256.github.io/research/macro-fx-feedback.html): a method overview covering macro information, comparable holding windows, feedback relationships, and time-aligned evaluation.
-- [Sovereign Risk Pricing](https://lz3256.github.io/research/sovereign-risk-pricing.html): a method overview of pricing-risk divergence and cross-country prediction benchmarks.
+- [Alpha Decay Lab](https://github.com/lz3256/alpha-decay-lab): synthetic mechanism experiments on signal reconstruction, decay assumptions, and trading costs.
+- [Policy Path and Equity Returns](https://github.com/lz3256/policy-path-equity): a research prototype for policy signals, equity sensitivity, and portfolio accounting; real-market validation remains a next step.
+- [Macro Surprise Decay and FX Feedback](https://github.com/lz3256/macro-fx-feedback): code for macro information, comparable holding windows, feedback relationships, and time-aligned evaluation, with qualified preliminary findings.
+- [Sovereign Risk Pricing](https://github.com/lz3256/sovereign-risk-pricing): code for pricing-risk divergence and cross-country prediction benchmarks; preliminary comparisons did not confirm stable added predictive value.
 
 ## Earlier work
 
